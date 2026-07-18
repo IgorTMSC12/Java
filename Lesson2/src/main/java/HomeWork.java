@@ -14,9 +14,9 @@ public class HomeWork {
     }
 
 
-    /**
+    /*
      * 1. Метод должен посчитать сумму двух чисел a и b и вывести на экран.
-     **/
+     */
     public static void task2() {
     }
 }
